@@ -1,15 +1,7 @@
 import pandas as pd
 import numpy
 import mplfinance as mpf
-# import yfinance as yf
 
-#take from form
-# 1.   ifsymbol
-# 2.   type of fgraph
-#     - OHLC                = default  
-#     - Candlestick charts, = cande
-#     - Colored Bar,        = renko 
-#     - Vertex Line         = line
 
 def func(fsymbol, charttype):
 
